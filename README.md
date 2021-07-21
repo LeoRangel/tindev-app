@@ -1,6 +1,6 @@
 # TINDEV: Leandro Rangel 
 
-[![Repositório](https://img.shields.io/badge/LeoRangel-tindev--app-green)](https://github.com/LeoRangel/mooc-em-django)
+[![Repositório](https://img.shields.io/badge/LeoRangel-tindev--app-green)](https://github.com/LeoRangel/tindev-app)
 [![licence mit](https://img.shields.io/github/license/leoRangel/tindev-app)](https://github.com/LeoRangel/tindev-app/blob/master/LICENSE)
 
 > :couplekiss: Aplicação baseada no Tinder para desenvolvedores feita com React Native
